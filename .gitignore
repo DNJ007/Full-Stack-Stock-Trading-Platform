@@ -4,7 +4,7 @@ node_modules/
 
 # Ignore environment files
 .env
-
+backend/.env
 # Ignore log files
 *.log
 npm-debug.log*
